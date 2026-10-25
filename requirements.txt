@@ -1,0 +1,9 @@
+faster-whisper==1.2.1
+piper-tts==1.4.1
+python-dotenv==1.2.1
+
+# Faster-Whisper 1.2.1 uses the PyAV metadata_errors argument removed in newer PyAV.
+av==15.1.0
+
+# Resolves online song searches to stream URLs; audio is never saved to disk.
+yt-dlp[default]

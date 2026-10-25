@@ -1,0 +1,5 @@
+* text=auto
+*.cmd text eol=crlf
+*.js text eol=lf
+*.py text eol=lf
+*.md text eol=lf
